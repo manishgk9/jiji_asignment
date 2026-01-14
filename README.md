@@ -13,11 +13,11 @@ Application screenshots are available in the folder below:
 
 android_apk_demo/
 
-```md
-![Jiji UI](android_apk_demo/screenshot_1.png)
-```
+<p align="center">
+  <img src="https://github.com/manishgk9/jiji_asignment/blob/master/android_apk_demo/screenshot_1.png"
+       width="200" />
+</p>
 
-````
 
 ---
 
@@ -25,9 +25,7 @@ android_apk_demo/
 
 You can download and install the Android APK from here:
 
-```md
-[Download Jiji APK](android_apk_demo/jiji.apk)
-```
+[Download Jiji APK](https://github.com/manishgk9/jiji_asignment/blob/master/android_apk_demo/jiji.apk)
 
 ---
 
@@ -53,21 +51,3 @@ You can download and install the Android APK from here:
 ```bash
 flutter pub get
 flutter run
-```
-
-Build APK:
-
-```bash
-flutter build apk
-```
-
----
-
-## 📝 Notes
-
-- UI-only implementation
-- No backend or network calls
-- Structured for easy future upgrades
-
-```
-````
